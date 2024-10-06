@@ -165,6 +165,7 @@ public class FlipkartTests extends TestBase {
 		filterPage.applyDiscountFilter();
 
 		filterPage.applyAvialiblityFilter();
+		
 
 	}
 	
